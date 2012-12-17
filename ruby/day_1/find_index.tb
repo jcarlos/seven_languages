@@ -1,0 +1,3 @@
+text = "Hello, Ruby,"
+puts "Index of \"Ruby,\": #{text.index("Ruby,")}"
+puts "Index of \"Ruby.\": #{text.index("Ruby.")}"
